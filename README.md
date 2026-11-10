@@ -1,8 +1,8 @@
 # Livraria MERN — versão inicial
 
-Mesmo projeto de cadastro de livros do [MERN-Book-Store](../MERN-Book-Store), na primeira versão do código.
+Mesmo projeto de cadastro de livros do [MERN-Book-Store](https://github.com/Brandon-Magalhaes/book-store-mern), na primeira versão do código.
 
-> **Use o [MERN-Book-Store](../MERN-Book-Store)**: é a versão mantida, com README, licença, ícones, notificações e tratamento de carregamento. Este repositório está aqui apenas como histórico.
+> **Use o [MERN-Book-Store](https://github.com/Brandon-Magalhaes/book-store-mern)**: é a versão mantida, com README, licença, ícones, notificações e tratamento de carregamento. Este repositório está aqui apenas como histórico.
 
 ## Stack
 
